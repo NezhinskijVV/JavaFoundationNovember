@@ -6,7 +6,6 @@ public class Cat {
     private String colorOfEyes;
     private boolean isFoldEar;
 
-
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
