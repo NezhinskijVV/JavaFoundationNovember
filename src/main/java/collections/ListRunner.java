@@ -1,6 +1,5 @@
 package collections;
 
-
 import interfaces.Man;
 
 import java.util.ArrayList;
