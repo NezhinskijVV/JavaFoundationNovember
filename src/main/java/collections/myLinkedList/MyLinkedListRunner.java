@@ -1,6 +1,6 @@
-package collections;
+package collections.myLinkedList;
 
-import java.util.LinkedList;
+import collections.myLinkedList.MyLinkedList;
 
 public class MyLinkedListRunner {
     public static void main(String[] args) {

@@ -1,6 +1,13 @@
 package interfaces;
 
+import lombok.AllArgsConstructor;
+
+@AllArgsConstructor
 public class Woman implements Cookable, Washable {
+   private String name;
+   private int age;
+
+    public Woman() {}
 
     @Override
     public void cook() {

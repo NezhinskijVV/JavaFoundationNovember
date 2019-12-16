@@ -50,5 +50,7 @@ public class StringRunner {
             stringBuilder1.append(i);
         }
         System.out.println("Конец для StringBuilder");
+
+        StringBuffer stringBuffer = new StringBuffer();
     }
 }

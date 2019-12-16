@@ -1,14 +1,9 @@
-package collections;
+package collections.myLinkedList;
 
 public class MyLinkedList<T> {
     private Node<T> startNode;
     private Node<T> endNode;
     private int size = 0;
-
-    public MyLinkedList(Node<T> startNode, Node<T> endNode) {
-        this.startNode = startNode;
-        this.endNode = endNode;
-    }
 
     public MyLinkedList() {
     }

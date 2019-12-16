@@ -1,8 +1,6 @@
-package collections;
+package collections.myArrayList;
 
-import interfaces.Man;
-
-import java.util.List;
+import collections.myArrayList.MyArrayList;
 
 public class MyArrayListRunner {
     public static void main(String[] args) {

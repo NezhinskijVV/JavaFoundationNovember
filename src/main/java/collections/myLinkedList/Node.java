@@ -1,4 +1,4 @@
-package collections;
+package collections.myLinkedList;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
